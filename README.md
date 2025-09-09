@@ -2,7 +2,9 @@
   <img src="Latest Linkedin Banner.png" alt="Banner" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="20px"> 💁🏻‍♂️👇 Hey, I'm Ronald👇</h2>
+## <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="45px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Lightning.gif" width="30px">
+<br/>
+
 <br/>
 
 - I'm a **Cloud & DevOps Engineer** passionate about building scalable, secure, and cost-efficient cloud infrastructure.  

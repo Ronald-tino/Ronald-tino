@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Latest Linkedin Banner.png" alt="Banner" />
+</p>
+
 ## <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="20px"> 💁🏻‍♂️👇 Hey, I'm Ronald👇</h2>
 <br/>
 
